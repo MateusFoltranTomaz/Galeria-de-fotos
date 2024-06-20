@@ -1,0 +1,40 @@
+body{
+    font-family:'Times New Roman', Times, serif;
+    background-color:dimgrey;
+    background-image: url("/Pictures/Background.webp");
+    background-blend-mode:luminosity;
+}
+
+h1{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    margin-bottom: 200px;
+    font-size: 50px;
+    background-color: whitesmoke;
+
+}
+
+.Gallery{
+    display: flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+    flex-grow: 3;
+    size-adjust: 50px;
+    order: 3;
+    align-self: center;
+    justify-content:center;
+    gap: 20px 20px; 
+    row-gap: 20px;
+    column-gap: 20px; 
+}
+
+img{
+    width: 300px;
+    height: 200px;
+    border-radius: 5%;
+    box-shadow: 5px 10px 8px 10px rgb(46, 48, 59);
+    align-items: center;
+    justify-content: center;
+    margin:auto;
+    margin-bottom: 50px;
+}
