@@ -4,9 +4,7 @@
 
 - Utilizei HTML e CSS 💻
 
-- Galeria de 7 fotos
-
-- 1 página
+- Galeria de 7 fotos 7️⃣
 
 Ela contém as 7 maravilhas do mundo!🤩🗺️🧭
 
