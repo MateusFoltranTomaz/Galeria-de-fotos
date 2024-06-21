@@ -2,7 +2,11 @@
 
 ## Essa é a minha galeria!
 
-Utilizei HTML e CSS. 💻
+- Utilizei HTML e CSS 💻
+
+- Galeria de 7 fotos
+
+- 1 página
 
 Ela contém as 7 maravilhas do mundo!🤩🗺️🧭
 
